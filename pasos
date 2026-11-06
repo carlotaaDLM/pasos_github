@@ -1,0 +1,10 @@
+git --version
+git config --global user.name "Eliana"
+git config --global user.mail "a20225072@pucp.edu.pe"
+git init
+git add .
+git commit -m "Primer commit"
+git branch -M main
+git remote add origen https://github.com/a20225072-eng/ejemplo7.git
+git push -u origen main
+a20225072-eng
